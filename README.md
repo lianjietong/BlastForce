@@ -4,10 +4,11 @@
 
 ### Project Schedule
 
+| Month                   | <td colspan=3> January <td colspan=4> February <td colspan=4> March <td colspan=4> April <td colspan=2> May
 | Objective/Week          | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
 | ----------------------- | - | - | - | - | - | - | - | - | - | -- | -- | -- | -- | -- | -- | -- | -- |
 | Concept                 | - | - | - |   |   |   |   |   |   |    |    |    |    |    |    |    |    |
-| Requirements and Design |   |   |   | - | - | - | - | - | - |- - |- - |    |    |    |    |    |    |
-| Implementation          |   |   |   |   |   |   |   | - | - |- - |- - |- - |- - |- - |    |    |    |
-| Testing                 |   |   |   |   |   |   |   |   |   |    |    |    |- - |- - |- - |    |    |
-| Integration - Showcase  |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |- - |- - |
+| Requirements and Design |   |   |   | - | - | - | - | - | - | -  | -  |    |    |    |    |    |    |
+| Implementation          |   |   |   |   |   |   |   | - | - | -  | -  | -  | -  | -  |    |    |    |
+| Testing                 |   |   |   |   |   |   |   |   |   |    |    |    | -  | -  | -  |    |    |
+| Integration - Showcase  |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    | -  | -  |
