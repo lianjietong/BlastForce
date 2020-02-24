@@ -5,7 +5,6 @@
 ### Project Schedule
 
 | Objective/Week          | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
-| Month                   | <td colspan=3> January <td colspan=4> February <td colspan=4> March <td colspan=4> April <td colspan=2> May
 | ----------------------- | - | - | - | - | - | - | - | - | - | -- | -- | -- | -- | -- | -- | -- | -- |
 | Concept                 | - | - | - |   |   |   |   |   |   |    |    |    |    |    |    |    |    |
 | Requirements and Design |   |   |   | - | - | - | - | - | - | -- | -- |    |    |    |    |    |    |
