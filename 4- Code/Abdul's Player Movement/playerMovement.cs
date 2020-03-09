@@ -7,9 +7,9 @@ public class playerMovement : MonoBehaviour
     public Animator animator;
 
     // declare and initialize needed variables
-    public float speed;
-    public float gravity;
-    public float jump;
+    public float speed = 6f;
+    public float gravity = 20f;
+    public float jump = 15f;
 
     float horizontal;
     float vertical;
@@ -20,11 +20,6 @@ public class playerMovement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // set variables as the game starts
-        speed = 6f;
-        gravity = 20f;
-        jump = 15f;
-
         // start up the controller and animator objects
         controller = GetComponent<CharacterController>();
         animator = GetComponent<Animator>();
