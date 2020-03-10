@@ -21,7 +21,7 @@
             <th>2</th>
             <th>3</th>
             <th>4</th>
-            <td>5</th>
+            <th>5</th>
             <th>6</th>
             <th>7</th>
             <th>8</th>
@@ -68,8 +68,8 @@
             <td>#</td>
             <td>#</td>
             <td>#</td>
-            <td>-</td>
-            <td>-</td>
+            <td>--</td>
+            <td>--</td>
             <td></td>
             <td></td>
             <td></td>
@@ -88,11 +88,11 @@
             <td></td>
             <td>#</td>
             <td>#</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
+            <td>--</td>
+            <td>--</td>
+            <td>--</td>
+            <td>--</td>
+            <td>--</td>
             <td></td>
             <td></td>
             <td></td>
@@ -111,9 +111,9 @@
             <td></td>
             <td></td>
             <td></td>
-            <td>-</td>
-            <td>-</td>
-            <td>-</td>
+            <td>--</td>
+            <td>--</td>
+            <td>--</td>
             <td></td>
             <td></td>
         </tr>
@@ -134,8 +134,8 @@
             <td></td>
             <td></td>
             <td></td>
-            <td>-</td>
-            <td>-</td>
+            <td>--</td>
+            <td>--</td>
         </tr>
     </tbody>
 </table>
