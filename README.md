@@ -3,9 +3,16 @@
 “Blast Force” is a fast-paced 3D platformer, using rocket jumping mechanics to explore and traverse various areas, grabbing the key object, then racing back to the start against a timer. Key mechanics is 360 degree firing of rockets while platforming to get through enemies, obstacles, or fire yourself to go faster or platform The story is about a walking tank named Sherman and his treasure hunting adventures to find the legendary Chekov’s Firing Pin.
 
 ### Months
-| Months                  | J | a | n | F | e | b | - | M | a | r  | -- | A  | p  | r  | -- | Ma | y  |
-| ----------------------- | - | - | - | - | - | - | - | - | - | -- | -- | -- | -- | -- | -- | -- | -- |
-| Concept                 | # | # | # |   |   |   |   |   |   |    |    |    |    |    |    |    |    |
+Stage | Direct Products | ATP Yields
+----: | --------------: | ---------:
+Glycolysis | 2 ATP ||
+^^ | 2 NADH | 3--5 ATP |
+Pyruvaye oxidation | 2 NADH | 5 ATP |
+Citric acid cycle | 2 ATP ||
+^^ | 6 NADH | 15 ATP |
+^^ | 2 FADH2 | 3 ATP |
+**30--32** ATP |||
+[Net ATP yields per hexose]
 
 ### Project Schedule
 | Objective/Week          | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
