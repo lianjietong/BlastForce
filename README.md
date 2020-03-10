@@ -6,15 +6,17 @@
 <table>
     <thead>
         <tr>
-            <th>Months</th>
+            <th align="left">Months</th>
             <th colspan=3>January</th>
             <th colspan=4>February</th>
             <th colspan=4>March</th>
             <th colspan=4>April</th>
             <th colspan=2>May</th>
         </tr>
+    </thead>
+    <thead>
         <tr>
-            <th>Objective/Week</th>
+            <th align="left">Objective/Week</th>
             <th>1</th>
             <th>2</th>
             <th>3</th>
@@ -36,7 +38,7 @@
     </thead>
     <tbody>
         <tr>
-            <th>Concept</th>
+            <th align="left">Concept</th>
             <th>#</th>
             <th>#</th>
             <th>#</th>
@@ -56,7 +58,7 @@
             <th></th>
         </tr>
         <tr>
-            <th>Requirements and Design</th>
+            <th align="left">Requirements and Design</th>
             <th></th>
             <th></th>
             <th></th>
@@ -76,7 +78,7 @@
             <th></th>
         </tr>
         <tr>
-            <th>Implementation</th>
+            <th align="left">Implementation</th>
             <th></th>
             <th></th>
             <th></th>
@@ -96,7 +98,7 @@
             <th></th>
         </tr>
         <tr>
-            <th>Testing</th>
+            <th align="left">Testing</th>
             <th></th>
             <th></th>
             <th></th>
@@ -116,7 +118,7 @@
             <th></th>
         </tr>
         <tr>
-            <th>Integration - Showcase</th>
+            <th align="left">Integration - Showcase</th>
             <th></th>
             <th></th>
             <th></th>
