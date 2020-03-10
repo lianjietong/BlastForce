@@ -7,9 +7,12 @@ public class playerMovement : MonoBehaviour
     public Animator animator;
 
     // declare and initialize needed variables
-    public float speed;
-    public float gravity;
-    public float jump;
+    public float speed = 6f;
+    public float gravity = -9.81f;
+    public float graviryScale = 3f;
+    public float jump = 15f;
+    public float rocketJumpScale = 2.5f;
+    public float crouchScale = 0.5f;
 
     float horizontal;
     float vertical;
@@ -20,11 +23,6 @@ public class playerMovement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // set variables as the game starts
-        speed = 6f;
-        gravity = 20f;
-        jump = 15f;
-
         // start up the controller and animator objects
         controller = GetComponent<CharacterController>();
         animator = GetComponent<Animator>();
@@ -66,15 +64,17 @@ public class playerMovement : MonoBehaviour
         Crouch();
 
         // always apply gravity effect
-        moveDirection.y -= gravity * Time.deltaTime;
+        moveDirection.y += gravity * graviryScale * Time.deltaTime;
         controller.Move(moveDirection * Time.deltaTime);
     }
 
-    void Crouch() {
-        // crouch using the down arrow or s
-        if (Input.GetKey(KeyCode.S) | Input.GetKey(KeyCode.DownArrow))
+    void Crouch()
+    {
+        // crouch using the letter "C"
+        if (Input.GetKey(KeyCode.C))
         {
-            gameObject.transform.localScale = new Vector3(0.5f, 0.5f, 0.5f);
+            gameObject.transform.localScale = new Vector3(1f, 1f, 1f);
+            gameObject.transform.localScale *= crouchScale;
         }
         else
         {
@@ -93,7 +93,7 @@ public class playerMovement : MonoBehaviour
         if (Input.GetKey("space"))
         {
             animator.SetBool("isJumping", true);
-            moveDirection.y = jump * 2;
+            moveDirection.y = jump * rocketJumpScale;
         }
     }
 

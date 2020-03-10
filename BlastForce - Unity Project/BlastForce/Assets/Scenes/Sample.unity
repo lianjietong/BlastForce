@@ -239,9 +239,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   controller: {fileID: 0}
   animator: {fileID: 0}
-  speed: 0
-  gravity: 0
-  jump: 0
+  speed: 6
+  gravity: -9.81
+  graviryScale: 3
+  jump: 15
+  rocketJumpScale: 2.5
+  crouchScale: 0.5
 --- !u!143 &443248255
 CharacterController:
   m_ObjectHideFlags: 0
