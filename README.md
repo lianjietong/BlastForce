@@ -6,7 +6,7 @@
 <table>
     <thead>
         <tr>
-            <th align="left">Months</th>
+            <th align="left"></th>
             <th colspan=3>January</th>
             <th colspan=4>February</th>
             <th colspan=4>March</th>
