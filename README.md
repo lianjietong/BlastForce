@@ -13,8 +13,6 @@
             <th colspan=4>April</th>
             <th colspan=2>May</th>
         </tr>
-    </thead>
-    <thead>
         <tr>
             <th>Objective/Week</th>
             <th>1</th>
