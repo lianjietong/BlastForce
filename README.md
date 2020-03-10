@@ -12,10 +12,10 @@
 | Testing                 |   |   |   |   |   |   |   |   |   |    |    |    | -- | -- | -- |    |    |
 | Integration - Showcase  |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    | -- | -- |
 
-#### Months
+### Months
 
-January:    Weeks 1, 2, 3
-February:   Weeks 4, 5, 6, 7
-March:      Weeks 8, 9, 10, 11
-April:      Weeks 12, 13, 14, 15
-May:        Weeks 16, 17
+1. January:    Weeks 1, 2, 3
+2. February:   Weeks 4, 5, 6, 7
+3. March:      Weeks 8, 9, 10, 11
+4. April:      Weeks 12, 13, 14, 15
+5. May:        Weeks 16, 17
