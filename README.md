@@ -6,8 +6,16 @@
 
 | Objective/Week          | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
 | ----------------------- | - | - | - | - | - | - | - | - | - | -- | -- | -- | -- | -- | -- | -- | -- |
-| Concept                 | - | - | - |   |   |   |   |   |   |    |    |    |    |    |    |    |    |
-| Requirements and Design |   |   |   | - | - | - | - | - | - | -- | -- |    |    |    |    |    |    |
-| Implementation          |   |   |   |   |   |   |   | - | - | -- | -- | -- | -- | -- |    |    |    |
+| Concept                 | # | # | # |   |   |   |   |   |   |    |    |    |    |    |    |    |    |
+| Requirements and Design |   |   |   | # | # | # | # | # | # | -- | -- |    |    |    |    |    |    |
+| Implementation          |   |   |   |   |   |   |   | # | # | -- | -- | -- | -- | -- |    |    |    |
 | Testing                 |   |   |   |   |   |   |   |   |   |    |    |    | -- | -- | -- |    |    |
 | Integration - Showcase  |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    | -- | -- |
+
+#### Months
+
+January:    Weeks 1, 2, 3
+February:   Weeks 4, 5, 6, 7
+March:      Weeks 8, 9, 10, 11
+April:      Weeks 12, 13, 14, 15
+May:        Weeks 16, 17
