@@ -142,13 +142,11 @@
 
 ### Cloning and Updating Instructions for contributers
 ##### To clone the repository for the first time, use the following command:
-#
 ```
 $ git clone https://github.com/AsaltAlfahdi/BlastForce.git
 ```
 #
 ##### To get the most updated version of a previously cloned repository, use the following command:
-#
 ```
 $ cd /path/of/repo
 $ git fetch origin
@@ -156,7 +154,6 @@ $ git reset --hard origin/master
 ```
 #
 ##### To view differences/changes of local cloned repository and actual master repository, use the following command:
-#
 ```
 $ git status
 ```
@@ -173,7 +170,6 @@ no changes added to commit (use "git add" and/or "git commit -a")
 ```
 #
 ##### To "commit" changes of a cloned repository,  use the following commands:
-#
 ```
 $ git add .
 $ git commit -m "Message/Description of updated files"
@@ -186,7 +182,6 @@ Result of commands:
 ```
 #
 ##### To push commited changes of a cloned repository,  use the following commands:
-#
 ```
 $ git push origin master
 ```
