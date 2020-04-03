@@ -10,3 +10,7 @@ This script handles the rocket firing. It shoots rays, apply damage and collects
 
 ## Target.cs
 This script gives a health variable to the target object. It has a function that deducts the damage from the health variable, and destroys the target if the health reaches 0 (or less).
+
+## FalseFloorTrigger.cs
+
+## SceneChanger.cs
