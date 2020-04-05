@@ -3,21 +3,6 @@
 “Blast Force” is a fast-paced 3D platformer, using rocket jumping mechanics to explore and traverse various areas, grabbing the key object, then racing back to the start against a timer. Key mechanics is 360 degree firing of rockets while platforming to get through enemies, obstacles, or fire yourself to go faster or platform The story is about a walking tank named Sherman and his treasure hunting adventures to find the legendary Chekov’s Firing Pin.
 
 ### Project Schedule
-+-------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----+
-|                         |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |    |
-+-------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----+
-| Objective/Week          | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
-+-------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----+
-| Concept                 | # | # | # |   |   |   |   |   |   |    |    |    |    |    |    |    |    |
-+-------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----+
-| Requirements and Design |   |   |   | # | # | # | # | # | # | ## | ## |    |    |    |    |    |    |
-+-------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----+
-| Implementation          |   |   |   |   |   |   |   | # | # | ## | ## | ## | -- | -- |    |    |    |
-+-------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----+
-| Testing and Refinement  |   |   |   |   |   |   |   |   |   |    |    |    | -- | -- | -- |    |    |
-+-------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----+
-| Integration - Showcase  |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    | -- | -- |
-+-------------------------+---+---+---+---+---+---+---+---+---+----+----+----+----+----+----+----+----+
 
 <table>
     <thead>
@@ -152,6 +137,48 @@
             <td></td>
             <td>--</td>
             <td>--</td>
+        </tr>
+    </tbody>
+</table>
+<table>
+    <thead>
+        <tr>
+            <th colspan=4 align="center">Team Members Task Assignments</th>
+        </tr>
+    </thead>
+    <tbody align="left">
+        <tr>
+            <th colspan=2>Team Lead:</th>
+            <th colspan=2>Todd</th>
+        </tr>
+        <tr>
+            <th colspan=2>Github Manager:</th>
+            <th colspan=2>Abdul</th>
+        </tr>
+        <tr>
+            <th rowspan=3>Design:</th>
+            <td>Level Design:</td>
+            <td>Jinyang</td>
+            <td>Todd</td>
+        </tr>
+        <tr>
+            <td>3D Models Design:</td>
+            <td colspan=2>Todd</td>
+        </tr>
+        <tr>
+            <td>3D Models Animation:</td>
+            <td colspan=2>Homero</td>
+        </tr>
+        <tr>
+            <th rowspan=3>Implementation:</th>
+            <td>Player/Level/Environment Programmer:</td>
+            <td>Abdul</td>
+            <td>Alsalt</td>
+        </tr>
+        <tr>
+            <td>Sound</td>
+            <td>Jordan</td>
+            <td>Alsalt</td>
         </tr>
     </tbody>
 </table>
