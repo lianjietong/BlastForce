@@ -16,7 +16,7 @@
     </thead>
     <thead>
         <tr>
-            <th align="left" bgcolor="green">Objective/Week</th>
+            <th align="left">Objective/Week</th>
             <th>1</th>
             <th>2</th>
             <th>3</th>
