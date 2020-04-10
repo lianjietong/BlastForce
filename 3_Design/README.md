@@ -6,4 +6,4 @@
 ![](Images/4%20-%20Storyboard%20Design%20-%20Escaping%20Scene.png)
 
 # Class Diagram
-![](Images/Class%20Diagram.png)
+![](Images/UML%20Class%20Diagram.png)
